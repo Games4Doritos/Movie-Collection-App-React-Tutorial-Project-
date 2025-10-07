@@ -9,6 +9,7 @@ To run the application:
 4. Move to the directory of the package/project name and then enter 'npm install'
 5. Replace the 'src' directory in the current directory with the src folder in main (the single parent folder in this repo)
 6. In src/services/movieAPI.js, you must replace the <Your API key> string on the first line with your own API key from TMDB (make an account, go to settings/API and go through the process)
-7. Enter 'npm run dev' and go to the where the application is localy hosted
+7. Enter 'npm install react-router-dom' to install an additional library we need
+8. Enter 'npm run dev' and go to the where the application is locally hosted
 
 Yay you've successfully ran a react application! Any problems, go to the start of the video at https://www.youtube.com/watch?v=G6D9cBaLViA&t=668s
