@@ -1,0 +1,21 @@
+.navLink{
+    background-color: azure;
+    padding: 5px 5px;
+    width: 10%;
+    height:30px;
+    align-self:center;
+    border-left: outset;
+}
+
+.navbarBrand{
+    padding:5px;
+    padding-right: 40px;
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+
+.navbar{
+    position:relative;
+    right: 50px;
+}

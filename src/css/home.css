@@ -1,0 +1,9 @@
+.movieGrid{
+    display:grid;
+    grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+}
+
+.home{
+    top:20px;
+    left:20px;
+}
